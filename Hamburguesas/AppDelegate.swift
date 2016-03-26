@@ -1,11 +1,10 @@
 //
-//  AppDelegate.swift
+//  Datos.swift
 //  Hamburguesas
 //
 //  Created by MIGUEL on 25/03/16.
 //  Copyright © 2016 MIGUEL. All rights reserved.
 //
-
 import UIKit
 
 @UIApplicationMain
